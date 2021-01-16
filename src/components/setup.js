@@ -6,6 +6,7 @@ function Setup() {
   return (
     <div>
       <Header />
+      <br />
       <div className="margin">
         <div>
           Clone&nbsp;

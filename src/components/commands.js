@@ -6,6 +6,7 @@ function Commands() {
   return (
     <div>
       <Header />
+      <br />
       <div className="margin">
         <div>
           The default prefix is <code>]</code>.

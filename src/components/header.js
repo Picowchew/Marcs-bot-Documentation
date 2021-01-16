@@ -6,7 +6,7 @@ import NavBar from "./navbar";
 
 function Header() {
   return (
-    <div>
+    <div className="header-bg">
       <div className="left">
         <Avatar />
         <Name />
@@ -15,6 +15,7 @@ function Header() {
         <NavBar />
       </div>
       <div className="clear" />
+      <hr />
     </div>
   );
 }

@@ -6,6 +6,7 @@ function Home() {
   return (
     <div>
       <Header />
+      <br />
       <p className="margin">
         Marcs-bot supplements other Discord logging bots by providing more
         details in the logging system. The source code of this bot can be

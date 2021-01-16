@@ -1,3 +1,7 @@
+.header-bg {
+  background: #dcd9ff;
+}
+
 .left {
   float: left;
   display: flex;

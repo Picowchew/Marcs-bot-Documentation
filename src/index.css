@@ -1,4 +1,5 @@
 body {
+  background-color: #f2f2ff;
   margin: 0;
   font-family: sans-serif;
   font-smooth: always;
@@ -19,6 +20,7 @@ caption {
 }
 
 table {
+  background-color: #ffffff;
   border-collapse: collapse;
 }
 
