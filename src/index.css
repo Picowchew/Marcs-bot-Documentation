@@ -13,6 +13,23 @@ code {
   font-family: monospace;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #333391;
+}
+
+a:hover {
+  color: #7575c9;
+}
+
+a:active {
+  color: #00006e;
+}
+
 caption {
   padding: 10px;
   text-align: left;
