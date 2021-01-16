@@ -80,6 +80,8 @@ function Commands() {
           </tr>
         </table>
       </div>
+      <br />
+      <br />
     </div>
   );
 }
