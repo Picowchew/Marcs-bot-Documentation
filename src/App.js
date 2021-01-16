@@ -14,13 +14,6 @@ function App() {
         <Route path="/setup" component={Setup} />
         <Route path="/commands" component={Commands} />
         <Route component={Other} />
-        <header className="App-header">
-          <p>Text1</p>
-          <h1>Text</h1>
-          <p>
-            Textaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa4
-          </p>
-        </header>
       </Switch>
     </div>
   );
